@@ -1,0 +1,3 @@
+/home /src/index.html
+/about /src/about.html
+/styles/div.css /src/styles/div.css
